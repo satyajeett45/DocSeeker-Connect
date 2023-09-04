@@ -1,2 +1,2 @@
-# DocSeeker-Connect
- DocSeeker-Connect project
+# DocSeeker_Connecct
+ DocSeeker_Connect
